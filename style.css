@@ -1,0 +1,96 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0%;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.red{
+    color: blueviolet;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+}
+.font{
+    font-size: 30px;
+}
+.line{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    display: inline-block;
+    background-color: rebeccapurple;
+    border-radius: 2px;
+    font-size: 20px;
+}
+.half-width-area{
+    width: 40%;
+    width: 50%;
+    
+}
+.half-width-area img{
+    width: 100%;
+
+}
+.half-width-write{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.font-size{
+    font-size: 30px;
+}
+.color{
+    color: rebeccapurple;
+}
+.experience{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.item{
+    box-shadow: 10px 10px 40px rebeccapurple;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-left: 5px solid salmon;
+    padding-left: 10px;
+}
+#tuli{
+    border-left: 7px solid purple;
+    border-image-slice: 1;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+footer p{
+    text-align: center;
+    
+}
+
+
+
+
